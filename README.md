@@ -57,11 +57,11 @@ Paid iCloud+ 2 TB — **free in our launcher**, paid on the official site.
 
 ## Screenshots
 
-![iCloud+](preview.png)
+<p align="center"><img src="preview.png" alt="iCloud+" width="420"></p>
 
 Aivora launcher hub — **Office and cloud** → **iCloud+**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
